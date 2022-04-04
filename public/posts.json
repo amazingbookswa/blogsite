@@ -1,19 +1,65 @@
 [
-    {
-        "id": 1,
-        "image": "1.png",
-        "slug": "post-number-one",
-        "title": "So what is Anemia",
-        "extract": "Anemia is a condition in which you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues.",
-        "body": "Having anemia, also referred to as low hemoglobin, can make you feel tired and weak. There are many forms of anemia, each with its own cause. Anemia can be temporary or long term and can range from"
-    },
-    {
-        "id": 2,
-        "image": "1.png",
-        "slug": "post-number-two",
-        "title": "So what is Anemia",
-        "extract": "Anemia is a condition in which you lack enough healthy red blood cells to carry adequate oxygen to your body's tissues.",
-        "body": "Having anemia, also referred to as low hemoglobin, can make you feel tired and weak. There are many forms of anemia, each with its own cause. Anemia can be temporary or long term and can range from"
-    }
-    
+{
+    "id":11,
+    "image": "11.jfif",
+    "slug": "post-number-one",
+    "title":"E-Levy problems",
+    "extract":"Nana Akufo-Addo, the president, will take a seven-day vacation beginning November 13th, 2021",
+    "body":"" 
+} ,
+
+{
+    "id":2,
+    "image": "2.png",
+    "slug": "post-number-one",
+    "title":"E-Levy problems",
+    "extract":"Nana Akufo-Addo, the president, will take a seven-day vacation beginning November 13th, 2021",
+    "body":"" 
+},
+
+{
+    "id":3,
+    "image": "3.png",
+    "slug": "post-number-one",
+    "title":"E-Levy problems",
+    "extract":"Nana Akufo-Addo, the president, will take a seven-day vacation beginning November 13th, 2021",
+    "body":"" 
+},
+
+{
+    "id":4,
+    "image": "4.png",
+    "slug": "post-number-one",
+    "title":"E-Levy problems",
+    "extract":"Nana Akufo-Addo, the president, will take a seven-day vacation beginning November 13th, 2021",
+    "body":"" 
+},
+
+{
+    "id":5,
+    "image": "5.png",
+    "slug": "post-number-one",
+    "title":"E-Levy problems",
+    "extract":"Nana Akufo-Addo, the president, will take a seven-day vacation beginning November 13th, 2021",
+    "body":"" 
+},
+
+{
+    "id":6,
+    "image": "6.png",
+    "slug": "post-number-one",
+    "title":"E-Levy problems",
+    "extract":"Nana Akufo-Addo, the president, will take a seven-day vacation beginning November 13th, 2021",
+    "body":"" 
+},
+
+{
+    "id":7,
+    "image": "7.png",
+    "slug": "post-number-one",
+    "title":"E-Levy problems",
+    "extract":"Nana Akufo-Addo, the president, will take a seven-day vacation beginning November 13th, 2021",
+    "body":"" 
+}
+
 ]
